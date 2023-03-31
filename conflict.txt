@@ -1,6 +1,7 @@
 public class exam{
-    int number;
+    int num;
     String name;
-    String department;
-
+    String dept;
+	int number;
+	int department;
 }
